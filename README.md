@@ -1,3 +1,3 @@
-## dirdi.github.io
+## dirdibirds
 
 A test of Site Leaf CMS .
