@@ -1,5 +1,5 @@
 ---
-title: RAEDING  LIST
+title: READING  LIST
 date: 2016-10-16 12:00:00 Z
 ---
 
