@@ -11,6 +11,17 @@ date: 2016-10-16 13:09:00 Z
 
 [ref=dp_ob_title_bk](https://images-na.ssl-images-amazon.com/images/I/417eQ5d7FiL.jpg)
 
+link[1]
+link[2]
+link[3]
+link[4]
+
+link[5]
+link[6]
+link[7]
+link[88]
+
+
 [1]: https://www.amazon.com/Damn-Good-Advice-People-Talent/dp/0714863483 
 [2]: https://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/
 [3]: https://www.amazon.com/Lifes-Pitch-Yourself-Brilliant-Ideas/dp/0552156833
@@ -19,4 +30,4 @@ date: 2016-10-16 13:09:00 Z
 [6]: https://www.amazon.com/Geek-Art-Anthology-Design-Illustration-Lightsabers/dp/1452140480/
 [7]: https://www.amazon.com/Design-Forward-Creative-Strategies-Sustainable/dp/3897903814
 [8]: https://www.amazon.com/Jony-Ive-Genius-Greatest-Products/dp/159184617X
-[9]: https://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/ref=dp_ob_title_bk
+[9]: https://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654
